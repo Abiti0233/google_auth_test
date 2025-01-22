@@ -1,1 +1,2 @@
 # google_auth_test
+golangでgoogle認証のテスト
